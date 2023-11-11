@@ -16,8 +16,6 @@
 
 - 🔭 I’m currently working on **MERN STACK**
 
-- 🌱 I’m currently learning **Everything😂😂**
-
 - 👯 I always look to collaborate on **Open Source Projects**
 
 - 💬 Ask me about **Anything**
