@@ -51,7 +51,7 @@
 <hr />
 <div style="disply:flex;" justify-content:center; >
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xcyanidex&show_icons=true&locale=en&layout=compact" alt="xcyanidex" /></p>
+<p style="display:block"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xcyanidex&show_icons=true&locale=en&layout=compact" alt="xcyanidex" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xcyanidex&show_icons=true&locale=en" alt="xcyanidex" /></p> -->
 
