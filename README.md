@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫Fact: **Life is too small to travel the world.**
+- 📫Fact: **Why do programmers prefer dark mode? Because light attracts bugs! 😄**
 
 ---
 
